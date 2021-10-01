@@ -1,0 +1,1208 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manufacto version 1.0\n"
+"POT-Creation-Date: 2020-05-19 21:42+0500\n"
+"PO-Revision-Date: 2018-02-27 20:48+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Yogs Themes <amirmcs0617@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:42
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: 404.php:47
+msgid "Sorry, but the page you are looking for does not existing"
+msgstr ""
+
+#: 404.php:49
+msgid "Home Page"
+msgstr ""
+
+#: blog.php:16 includes/modules/shortcodes/our_specialization_v3.php:39
+msgid "Thumbnail Image"
+msgstr ""
+
+#: blog.php:45
+msgid "Gallery Image"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:45
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "strong yellow"
+msgstr ""
+
+#: functions.php:79
+msgid "strong white"
+msgstr ""
+
+#: functions.php:84
+msgid "light black"
+msgstr ""
+
+#: functions.php:89
+msgid "very light gray"
+msgstr ""
+
+#: functions.php:94
+msgid "very dark black"
+msgstr ""
+
+#: functions.php:102
+msgid "Small"
+msgstr ""
+
+#: functions.php:107
+msgid "Normal"
+msgstr ""
+
+#: functions.php:112
+msgid "Large"
+msgstr ""
+
+#: functions.php:117
+msgid "Huge"
+msgstr ""
+
+#: functions.php:131
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:133 functions.php:151 functions.php:160
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: functions.php:140
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:142
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: functions.php:149
+msgid "Blog Listing"
+msgstr ""
+
+#: functions.php:158
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:291 functions.php:292 functions.php:293
+msgid "on"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:232
+#: includes/modules/shortcodes/our_projects_v2.php:97
+msgid "All"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:263
+msgid "Experts Themes Mega Menu Settings:"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:263
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:267
+msgid "CONTRA Mega Menu Settings"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:274
+msgid "Enable The Mega Menu?"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:276
+msgid "Disable"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:279
+msgid "Posts - Vertical Sub-Categories Filter"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:280
+msgid "Posts - Horizontal Sub-Categories Filter"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:283
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:292
+msgid "Posts Count"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:301
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:314
+msgid "Background Image"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:317 includes/library/widgets.php:61
+#: includes/library/widgets.php:507
+msgid "Upload"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:322
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:324
+msgid "No Repeat"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:325
+msgid "Repeat"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:326
+msgid "Repeat X"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:327
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:334
+msgid "Background Position X"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:336
+msgid "Right"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:337
+#: includes/helpers/bootstrap_walker.php:348
+msgid "Center"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:338
+msgid "Left"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:345
+msgid "Background Position Y"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:347
+msgid "Top"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:349
+msgid "Bottom"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:356
+msgid "Min Height"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:363
+msgid "Max Width"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:370
+msgid "Padding Left"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:376
+msgid "Padding Right"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:383
+msgid "Hide Mega Menu headings?"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:537
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:541
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:554
+msgid "sub item"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:568
+msgid "Move up"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:580
+msgid "Move down"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:583
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:583
+msgid "Edit"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:592
+msgid "URL"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:599
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:605
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:612
+msgid "Open link in a new tab"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:617
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:623
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:629
+msgid "Description"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:631
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:641
+msgid "Move"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:642
+msgid "Up one"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:643
+msgid "Down one"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:646
+msgid "To the top"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:671
+msgid "Remove"
+msgstr ""
+
+#: includes/helpers/bootstrap_walker.php:671
+msgid "Cancel"
+msgstr ""
+
+#: includes/library/functions.php:25 includes/library/widgets.php:137
+#: includes/library/widgets.php:229 includes/library/widgets.php:312
+#: includes/library/widgets.php:600 includes/library/widgets.php:693
+msgid "All Categories"
+msgstr ""
+
+#: includes/library/functions.php:53
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/library/functions.php:124
+msgid "Home"
+msgstr ""
+
+#: includes/library/functions.php:166 includes/library/functions.php:169
+#: includes/library/functions.php:172 includes/library/functions.php:175
+msgid "Archive for "
+msgstr ""
+
+#: includes/library/functions.php:178
+msgid "Search Results for "
+msgstr ""
+
+#: includes/library/functions.php:181
+msgid "404 - Not Found"
+msgstr ""
+
+#: includes/library/functions.php:196
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: includes/library/functions.php:218
+msgid "You must agreed the policy"
+msgstr ""
+
+#: includes/library/functions.php:232
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: includes/library/functions.php:236
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: includes/library/functions.php:262
+msgid "Reply"
+msgstr ""
+
+#: includes/library/functions.php:298
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: includes/library/functions.php:313
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/library/functions.php:318
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/library/functions.php:319
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/library/functions.php:320
+msgid "Post Comment "
+msgstr ""
+
+#: includes/library/functions.php:342
+msgid "Leave a Comment"
+msgstr ""
+
+#: includes/library/functions.php:616
+msgid "Loading..."
+msgstr ""
+
+#: includes/library/widgets.php:10
+msgid "Contra About Us"
+msgstr ""
+
+#: includes/library/widgets.php:10
+msgid "Show the information about company"
+msgstr ""
+
+#: includes/library/widgets.php:24
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/library/widgets.php:56
+msgid "Add Logotype image:"
+msgstr ""
+
+#: includes/library/widgets.php:64 includes/library/widgets.php:518
+msgid "Content:"
+msgstr ""
+
+#: includes/library/widgets.php:78
+msgid "Contra Recent Posts"
+msgstr ""
+
+#: includes/library/widgets.php:78
+msgid "Show the Recent Posts"
+msgstr ""
+
+#: includes/library/widgets.php:122
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/library/widgets.php:127 includes/library/widgets.php:514
+#: includes/library/widgets.php:590 includes/library/widgets.php:683
+msgid "Title: "
+msgstr ""
+
+#: includes/library/widgets.php:131 includes/library/widgets.php:594
+#: includes/library/widgets.php:687
+msgid "No. of Posts:"
+msgstr ""
+
+#: includes/library/widgets.php:136 includes/library/widgets.php:228
+#: includes/library/widgets.php:311 includes/library/widgets.php:599
+#: includes/library/widgets.php:692
+msgid "Category"
+msgstr ""
+
+#: includes/library/widgets.php:171
+msgid "Contra Recent Works"
+msgstr ""
+
+#: includes/library/widgets.php:171
+msgid "Show the Recent Works"
+msgstr ""
+
+#: includes/library/widgets.php:220
+msgid "Enter The Title: "
+msgstr ""
+
+#: includes/library/widgets.php:224 includes/library/widgets.php:307
+msgid "Number of posts: "
+msgstr ""
+
+#: includes/library/widgets.php:247
+msgid "Image Title Here"
+msgstr ""
+
+#: includes/library/widgets.php:264
+msgid "Contra Services"
+msgstr ""
+
+#: includes/library/widgets.php:264
+msgid "Show the Services Sidebar"
+msgstr ""
+
+#: includes/library/widgets.php:345
+msgid "Contra Our Brochures"
+msgstr ""
+
+#: includes/library/widgets.php:345
+msgid "Show the info Our Brochures"
+msgstr ""
+
+#: includes/library/widgets.php:413
+msgid "PDF Title:"
+msgstr ""
+
+#: includes/library/widgets.php:414
+msgid "PDF Title here"
+msgstr ""
+
+#: includes/library/widgets.php:417
+msgid "PDF Link:"
+msgstr ""
+
+#: includes/library/widgets.php:418
+msgid "PDF link here"
+msgstr ""
+
+#: includes/library/widgets.php:421
+msgid "Word Doc Title:"
+msgstr ""
+
+#: includes/library/widgets.php:422
+msgid "Word Title here"
+msgstr ""
+
+#: includes/library/widgets.php:425
+msgid "Work Doc Link:"
+msgstr ""
+
+#: includes/library/widgets.php:426
+msgid "Word link here"
+msgstr ""
+
+#: includes/library/widgets.php:429
+msgid "PPT Title Here:"
+msgstr ""
+
+#: includes/library/widgets.php:430
+msgid "PPT Title here"
+msgstr ""
+
+#: includes/library/widgets.php:433
+msgid "PPT Link:"
+msgstr ""
+
+#: includes/library/widgets.php:434
+msgid "PPT Link here"
+msgstr ""
+
+#: includes/library/widgets.php:448
+msgid "Contra Quick Contact"
+msgstr ""
+
+#: includes/library/widgets.php:448
+msgid "Show the Quick Contact"
+msgstr ""
+
+#: includes/library/widgets.php:502
+msgid "Background image:"
+msgstr ""
+
+#: includes/library/widgets.php:510
+msgid "Sub Title: "
+msgstr ""
+
+#: includes/library/widgets.php:522
+msgid "Button Title: "
+msgstr ""
+
+#: includes/library/widgets.php:526
+msgid "Button Link: "
+msgstr ""
+
+#: includes/library/widgets.php:542
+msgid "Contra Popular Post"
+msgstr ""
+
+#: includes/library/widgets.php:542
+msgid "Show the Popular Post"
+msgstr ""
+
+#: includes/library/widgets.php:585
+msgid "Popular Post"
+msgstr ""
+
+#: includes/library/widgets.php:616
+msgid "by"
+msgstr ""
+
+#: includes/library/widgets.php:633
+msgid "Contra Popular Products"
+msgstr ""
+
+#: includes/library/widgets.php:633
+msgid "Show the Popular Products"
+msgstr ""
+
+#: includes/library/widgets.php:678
+msgid "Popular Products"
+msgstr ""
+
+#: includes/loader.php:145 includes/loader.php:146
+msgid "Theme Options"
+msgstr ""
+
+#: includes/modules/header_v1.php:12 includes/modules/header_v1.php:14
+#: includes/modules/header_v2.php:49 includes/modules/header_v2.php:51
+#: includes/modules/header_v2.php:132 includes/modules/header_v2.php:134
+#: includes/modules/header_v3.php:11 includes/modules/header_v3.php:13
+#: includes/modules/header_v3.php:58 includes/modules/header_v3.php:60
+#: includes/modules/header_v4.php:11 includes/modules/header_v4.php:13
+#: includes/modules/header_v4.php:75 includes/modules/header_v4.php:77
+#: includes/modules/header_v5.php:11 includes/modules/header_v5.php:13
+#: includes/modules/header_v5.php:55 includes/modules/header_v5.php:57
+#: includes/modules/header_v6.php:12 includes/modules/header_v6.php:14
+#: includes/modules/header_v6.php:59 includes/modules/header_v6.php:61
+#: includes/modules/header_v7.php:27 includes/modules/header_v7.php:29
+msgid "Contra"
+msgstr ""
+
+#: includes/modules/header_v1.php:69 includes/modules/header_v2.php:117
+#: includes/modules/header_v7.php:83 searchform2.php:3
+msgid "Search Here"
+msgstr ""
+
+#: includes/modules/header_v2.php:86
+msgid "Cart Image"
+msgstr ""
+
+#: includes/modules/header_v4.php:61 includes/modules/header_v7.php:13
+msgid "Phone :"
+msgstr ""
+
+#: includes/modules/header_v4.php:62 includes/modules/header_v7.php:14
+msgid "EMAIL :"
+msgstr ""
+
+#: includes/modules/header_v5.php:82
+msgid "Your Email Address"
+msgstr ""
+
+#: includes/modules/header_v5.php:83
+msgid "Send Now"
+msgstr ""
+
+#: includes/modules/shortcodes/about_us.php:12
+msgid "Alphabet Image"
+msgstr ""
+
+#: includes/modules/shortcodes/about_us.php:13
+msgid "About Image"
+msgstr ""
+
+#: includes/modules/shortcodes/about_us2.php:8
+msgid "Studio Image"
+msgstr ""
+
+#: includes/modules/shortcodes/campaign_video.php:23
+#: includes/modules/shortcodes/campaign_video.php:57
+msgid "Video Image"
+msgstr ""
+
+#: includes/modules/shortcodes/funfacts_and_features.php:45
+#: includes/modules/shortcodes/how_we_work.php:29
+#: includes/modules/shortcodes/our_specialization.php:39
+#: includes/modules/shortcodes/our_specialization_v2.php:30
+msgid "Read More"
+msgstr ""
+
+#: includes/modules/shortcodes/mobile_app.php:17
+msgid "Mobile Image"
+msgstr ""
+
+#: includes/modules/shortcodes/our_best_projects.php:37
+msgid "View Project"
+msgstr ""
+
+#: includes/modules/shortcodes/our_faqs.php:9
+msgid "Faq Image"
+msgstr ""
+
+#: includes/modules/shortcodes/our_partners.php:10
+#: includes/modules/shortcodes/our_partners.php:27
+#: includes/modules/shortcodes/our_partners.php:44
+msgid "Partner Image"
+msgstr ""
+
+#: includes/modules/shortcodes/our_specialization_v3.php:31
+#: includes/modules/shortcodes/our_specialization_v3.php:84
+msgid "Image Caption Here"
+msgstr ""
+
+#: includes/modules/shortcodes/our_specialization_v3.php:31
+#: includes/modules/shortcodes/our_specialization_v3.php:84
+msgid "Architect Image"
+msgstr ""
+
+#: includes/modules/shortcodes/our_specialization_v3.php:91
+msgid "Thumb Image"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:346
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:347
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:928
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3759
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3329
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3114
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:406
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:408
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:409
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:410
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:411
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:622
+msgid "Update Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1037
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2121
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2422
+msgid "Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2425
+msgid "Recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2442
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2445
+msgid "External Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2448
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2466
+msgid "Not Installed"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2470
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2472
+msgid "Active"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2478
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2480
+msgid "Requires Update"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgid "Update recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2543
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2551
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2636
+msgid "unknown"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2644
+msgid "Installed version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2652
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2664
+msgid "Available version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2703
+msgid "Plugin"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2704
+msgid "Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2705
+msgid "Type"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2709
+msgid "Version"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2710
+msgid "Status"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2762
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2767
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2773
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2845
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2879
+msgid "Install"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2885
+msgid "Update"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2888
+msgid "Activate"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2919
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2921
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2962
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2964
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3070
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3096
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3328
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3674
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3677
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3679
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3683
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3685
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3686
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3688
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3691
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3693
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3694
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3696
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:64
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:75
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:86
+msgid "KingComposer"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:91
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:97
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/vc_map.php:7
+msgid "bbPress Forums"
+msgstr ""
+
+#: includes/vc_map.php:10
+msgid "Jollyall"
+msgstr ""
+
+#: includes/vc_map.php:17
+msgid "Forum"
+msgstr ""
+
+#: includes/vc_map.php:184
+msgid "Container"
+msgstr ""
+
+#: includes/vc_map.php:187
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: index.php:47
+msgid "Our Blog"
+msgstr ""
+
+#: page.php:76 single.php:98
+msgid "Pages: "
+msgstr ""
+
+#: search.php:95
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:5 woocommerce/product_searchform.php:28
+msgid "Search ..."
+msgstr ""
+
+#: single-bunch_projects.php:52 single-bunch_projects.php:65
+msgid "Project Image"
+msgstr ""
+
+#: single-bunch_services.php:77
+msgid "Services Image"
+msgstr ""
+
+#: single.php:108
+msgid "Tags:"
+msgstr ""
+
+#: tpl-comming_soon.php:17
+msgid "Coming Soon Image"
+msgstr ""
+
+#: tpl-comming_soon.php:21
+msgid "Comming Soon"
+msgstr ""
+
+#: tpl-comming_soon.php:26
+msgid "2020/8/17"
+msgstr ""
+
+#: tpl-comming_soon.php:28
+msgid "Our Website is under construction. stay tuned for something amazing!."
+msgstr ""
+
+#: tpl-comming_soon.php:28
+msgid "Subscribe to be notified,"
+msgstr ""
+
+#: tpl-comming_soon.php:34
+msgid "Enter your email"
+msgstr ""
+
+#: tpl-comming_soon.php:35
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:26
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:63 woocommerce/cart/cart.php:38
+#: woocommerce/cart/cart.php:109
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:74
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:89
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:94
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:86
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:33
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:36
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:36
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/content-product.php:72
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/single-product/related.php:28
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:34
+msgid "You may also like&hellip;"
+msgstr ""
